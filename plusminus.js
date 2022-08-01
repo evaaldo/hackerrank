@@ -21,5 +21,3 @@ function plusMinus(arr) {
     console.log(ratioNegative);
     console.log(ratioZero);
 }
-
-plusMinus([1,1,0,-1,-1]);
